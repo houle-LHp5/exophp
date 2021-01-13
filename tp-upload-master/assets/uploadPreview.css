@@ -1,0 +1,54 @@
+#imgPreview {
+	width: 200px; 
+	max-height: 200px;
+	display: block;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-size: x-large;
+	color: #2E3440;
+}
+
+.uploadBtn{
+	margin-left: 10px;
+	font-size: large;
+	color: #2E3440;
+}
+
+.container-fluid{
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+	background-color: #858A84;
+	width: 100%;
+	height: auto;
+}
+
+.choiceImg{
+	font-size: xx-large;
+	font-weight: bold;
+}
+
+.logoUpload{
+	width: 40px;
+	height: auto;
+	background-image: none;
+}
+
+button{
+	display: flex;
+	flex-direction: row;
+	margin: 25px;
+	margin-left: 150px;
+	padding: 15px;
+	justify-content: center;
+	align-items: center;
+	background-color: transparent;
+	border: 1px solid #2E3440;
+	cursor: pointer;
+}
+
+button:hover{
+	background-color: rgb(245, 245, 245, 0.3);
+}

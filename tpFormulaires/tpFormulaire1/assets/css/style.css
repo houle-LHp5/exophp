@@ -1,0 +1,26 @@
+#formContact{
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+#afficher{
+    margin-left: 2em;
+}
+
+.buttonForm{
+    margin-top: 2em;
+    margin-left: 20em;
+}
+
+body{
+    background-image: url(../img/plumeFondBlanc.jpg);
+    color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

@@ -1,0 +1,52 @@
+/* carte qui regroupe les mois et les années, le titre et le boutton de validation */
+.cardCalendar{
+    margin-top: 0em;
+    margin-left: 23em;
+    margin-right: 10em;
+    text-align: center;
+    color: black;
+}
+
+/* image d'arrier plan du body */
+body{
+    background-image: url(../TP/imageCalandarTp/imagePaysage.jpg);
+}
+
+/* boutton d'affichage */
+.Displaybutton{
+    background-color:#BF8D7A;
+    margin-top: 1em;
+    margin-left: 1em;
+    color: white;
+}
+
+/* ligne des jours de la semaine du  calendrier */
+.tableWeekDays{
+    text-align: center;
+    color: white;
+    height: 5em;
+    width: 5em;
+    margin-top: -2em;
+}
+
+/* titre du calendrier h1 */
+h1{
+    size: 5px;
+    color: white;
+    margin-top: 0,5em;
+    margin-left: 1em;
+    text-align: center;
+}
+
+/*le calendrier des jours de la semaine au dernier jours */
+#calendarTable{
+    margin-top: 2em;
+    color: white;
+ }
+
+ /* les selecteurs de mois et d'années */
+ #selectedMonthsAndYears{
+     margin-top: 1em;
+     color: #BF8D7A;
+ }
+
